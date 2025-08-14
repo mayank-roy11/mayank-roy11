@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Mayank Roy</h1>
+<h1 align="center">Hi 👋, I'm Mayank Roy</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
@@ -57,4 +57,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayank-roy11&label=Profile%20views&color=grey&style=flat-square" alt="Profile Views" />
 </p>
-!--
+
